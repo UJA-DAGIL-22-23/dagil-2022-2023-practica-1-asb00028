@@ -13,8 +13,11 @@ Estudiante de Informática de la Universidad de Jaén.
 * **Web**: -
 * **GitHub**: https://github.com/asb00028
   - **Usuario**: asb00028
-  - **Foto Perfil**: 
+  - **Foto del Repositorio**: 
   <img src='/paginainicio.PNG' width='600px' height='350'>
+  
+  - **Foto del Perfil**: 
+  <img src='/perfil.PNG' width='600px' height='350'>
   
 * **Trello**: https://trello.com/invite/b/xLeRezD6/ATTIe20d0228b80a7b320087e3e565d32c7c441A47E7/practica-1
   - **Captura inicial del tablero**:    
